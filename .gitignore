@@ -13,3 +13,9 @@ PM4-theHarvester/screenshots/
 # PM5 - exclude raw local network scan data from public repository
 PM5-Network-Scanning/outputs/
 PM5-Network-Scanning/screenshots/
+
+# Allow only sanitized public reports for PM4 and PM5
+!PM4-theHarvester/reports/
+!PM4-theHarvester/reports/README.md
+!PM5-Network-Scanning/reports/
+!PM5-Network-Scanning/reports/README.md
