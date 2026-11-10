@@ -1,0 +1,93 @@
+# Project 3 – Footprinting with Maltego
+
+## 1. Project Information
+
+- **Project:** Week 2 – Cybersecurity Project
+- **Module:** Project Module 3 – Footprinting with Maltego
+- **Operating System:** Kali Linux
+- **Software:** Maltego
+- **Installed Version:** 4.14.0
+- **Target Domain:** networkwalks.com
+
+## 2. Objective
+
+The objective of this task is to use Maltego for graphical link analysis and authorized Open-Source Intelligence (OSINT) research.
+
+## 3. Installation and Setup
+
+- Downloaded Maltego version 4.14.0.
+- Installed the Debian package successfully using APT.
+- Configured the Java runtime to resolve the initial startup compatibility issue.
+- Successfully launched the Maltego application.
+- Opened a new graph and added the domain entity networkwalks.com.
+
+## 4. Domain Entity
+
+- **Entity Type:** Domain
+- **Domain Value:** networkwalks.com
+- **Graph Status:** Domain entity added to the graph.
+
+## 5. Transform Execution
+
+The following transform was attempted:
+
+**Transform Name:** Utilities – Extract Translation to Phrase [DeepL]
+
+### Execution 1
+
+- **Entity:** networkwalks.com
+- **Execution Time:** 7:14 AM
+- **Credits Consumed:** 1
+- **Result:** Unexpected error during execution.
+
+### Execution 2
+
+- **Entity:** info@networkwalks.com
+- **Execution Time:** 7:18 AM
+- **Credits Consumed:** 2 additional credits across two attempts
+- **Result:** Unexpected error during execution.
+
+## 6. Transform Log Observations
+
+The Maltego log displayed the following messages:
+
+- Transform execution started.
+- Unified Credits information was displayed.
+- A warning reported an unexpected error.
+- The transform process displayed a completion message.
+
+**Credit Information:**
+- Initial available credits: 200
+- Credits consumed: 3
+- Remaining credits: 197
+- Next credit period: December 1, 2026
+
+**Important Finding:** The transform displayed a completion message, but the unexpected-error warnings indicate that successful translation results were not confirmed.
+
+## 7. Practical Work Status
+
+| Activity | Status |
+|---|---|
+| Download Maltego | Completed |
+| Install Maltego | Completed |
+| Launch Maltego GUI | Completed |
+| Create a new graph | Completed |
+| Add domain entity | Completed |
+| Attempt available transform | Completed |
+| Record observations | Completed |
+
+
+## 8. Security Observations
+
+- Maltego supports graphical analysis of entities and their relationships.
+- Domain entities can be used as starting points for OSINT investigations.
+- Transform availability may depend on service configuration and external integrations.
+- Transform warnings should be reviewed rather than treated as successful findings.
+
+## 9. Conclusion
+
+Maltego 4.14.0 was installed and launched successfully on Kali Linux. A new graph was created and the networkwalks.com domain entity was added.
+
+The DeepL translation transform was attempted on the domain and an email entity. However, unexpected errors were reported during execution. Further investigation is required to obtain successful transform results.
+
+**Ethical Statement:** The work was conducted for educational purposes. Any further OSINT investigation will be limited to authorized targets.

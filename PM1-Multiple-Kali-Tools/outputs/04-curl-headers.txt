@@ -1,0 +1,7 @@
+Command 'url' not found, did you mean:
+  command 'ul' from deb bsdextrautils
+  command 'uil' from deb uil
+  command 'uro' from deb uro
+  command 'erl' from deb erlang-base
+  command 'curl' from deb curl
+Try: sudo apt install <deb name>

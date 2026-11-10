@@ -1,0 +1,15 @@
+# Local network information - keep private
+PM5-Network-Scanning/outputs/local-ip-address.txt
+PM5-Network-Scanning/outputs/mac-addresses.txt
+
+# Raw theHarvester outputs - pending scope and privacy review
+PM4-theHarvester/outputs/02-all-sources.txt
+PM4-theHarvester/outputs/task2-all-sources.txt
+
+# PM4 - exclude until target authorization and output privacy are verified
+PM4-theHarvester/outputs/
+PM4-theHarvester/screenshots/
+
+# PM5 - exclude raw local network scan data from public repository
+PM5-Network-Scanning/outputs/
+PM5-Network-Scanning/screenshots/

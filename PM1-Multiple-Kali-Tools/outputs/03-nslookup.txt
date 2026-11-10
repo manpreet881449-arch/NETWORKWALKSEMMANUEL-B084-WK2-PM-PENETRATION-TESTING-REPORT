@@ -1,0 +1,6 @@
+Server:		192.168.80.2
+Address:	192.168.80.2#53
+
+Non-authoritative answer:
+Name:	networkwalks.com
+Address: 192.232.216.135

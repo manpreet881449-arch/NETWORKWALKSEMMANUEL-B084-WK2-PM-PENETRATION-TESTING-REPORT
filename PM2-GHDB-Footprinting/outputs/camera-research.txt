@@ -1,0 +1,237 @@
+Project 2 – Google Hacking Database (GHDB) Camera Research
+
+1. Project Information
+
+Project: Week 2 – Cybersecurity Project
+
+Module: Project Module 2 – Footprinting with GHDB
+
+Research Topic: Camera-related Google Hacking Database Entries
+
+Source: Exploit-DB Google Hacking Database
+
+Website: https://www.exploit-db.com/google-hacking-database
+
+2. Objective
+
+The objective of this research is to study camera-related GHDB entries and understand how search engines may index publicly accessible camera interfaces, login portals, and camera-related directories.
+
+3. Research Methodology
+
+Opened the Exploit-DB Google Hacking Database website.
+
+Used the GHDB Quick Search feature to search for camera-related entries.
+
+Reviewed the available entry dates, dork descriptions, categories, and authors.
+
+Identified potential security and privacy risks.
+
+Did not access, view, or interact with third-party camera feeds or devices.
+
+4. Collected Camera-related GHDB Entries
+
+No.
+
+Date Added
+
+GHDB Entry / Dork Description
+
+Category
+
+Author
+
+1
+
+2023-11-07
+
+Webcam page title and WebCam.htm URL pattern
+
+Various Online Devices
+
+s Thakur
+
+2
+
+2023-03-14
+
+Toshiba Network Camera title pattern
+
+Various Online Devices
+
+Shilpa Shaji
+
+3
+
+2023-02-27
+
+Camera directory listing pattern
+
+Files Containing Juicy Info
+
+Sanu Jose M
+
+4
+
+2023-01-31
+
+Webcam directory listing pattern
+
+Files Containing Juicy Info
+
+Shuvrosayar Das
+
+5
+
+2022-07-25
+
+IP camera device page and language indicator
+
+Pages Containing Login Portals
+
+s Thakur
+
+6
+
+2022-07-25
+
+NoVus IP camera title pattern
+
+Various Online Devices
+
+s Thakur
+
+7
+
+2022-07-20
+
+Network camera main.cgi page pattern
+
+Various Online Devices
+
+s Thakur
+
+8
+
+2022-06-17
+
+SkylineWebcams Rome webcam URL pattern
+
+Various Online Devices
+
+Simone Gasparato
+
+9
+
+2021-11-16
+
+Camera-related login page pattern
+
+Pages Containing Login Portals
+
+Yash Singh
+
+10
+
+2021-11-16
+
+Real-time IP camera monitoring interface text
+
+Various Online Devices
+
+Yash Singh
+
+11
+
+2021-11-12
+
+Camera-related login page pattern
+
+Pages Containing Login Portals
+
+Naveen Venugopal
+
+12
+
+2021-11-09
+
+webcamXP service URL pattern
+
+Various Online Devices
+
+Krishna Agarwal
+
+13
+
+2021-11-09
+
+DCIM/camera directory listing pattern
+
+Files Containing Juicy Info
+
+Krishna Agarwal
+
+14
+
+2021-10-28
+
+IP camera login page title pattern
+
+Pages Containing Login Portals
+
+jawhar milkan
+
+15
+
+2021-10-26
+
+Microseven M7CAM IP Camera title pattern
+
+Various Online Devices
+
+Neha Singh
+
+5. Security Risks Identified
+
+Unauthorized camera exposure: Publicly indexed camera interfaces may reveal devices that were not intended to be publicly accessible.
+
+Weak authentication: Poorly secured login portals may increase the risk of unauthorized access.
+
+Information disclosure: Misconfigured directory listings may expose camera-related files or sensitive information.
+
+Privacy violations: Exposed monitoring systems may create privacy risks for individuals and organizations.
+
+Device misconfiguration: Default settings and unrestricted internet access can increase security exposure.
+
+6. Defensive Recommendations
+
+Change default usernames and passwords.
+
+Enable strong authentication and MFA where supported.
+
+Restrict camera management interfaces to trusted networks or VPN access.
+
+Disable unnecessary public access and directory listings.
+
+Update camera firmware regularly.
+
+Review firewall rules and network access controls.
+
+Check whether sensitive pages are being indexed by search engines.
+
+Conduct authorized security assessments.
+
+7. Conclusion
+
+This research helped me understand how Google Hacking Database entries can identify potentially exposed camera-related interfaces, login pages, and directory listings.
+
+It also highlighted the importance of secure authentication, access restrictions, firmware updates, and proper network configuration.
+
+Ethical and Safety Statement: This was catalogue-level research only. No third-party camera feeds, login portals, or devices were accessed.
+
+8. Research Source
+
+Exploit-DB Google Hacking Database:
+
+https://www.exploit-db.com/google-hacking-database
+
+Note: Individual GHDB entry reference URLs should be added after opening and verifying each entry on the source website.

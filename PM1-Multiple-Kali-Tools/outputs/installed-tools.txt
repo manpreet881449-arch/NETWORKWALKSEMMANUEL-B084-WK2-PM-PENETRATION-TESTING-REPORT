@@ -1,0 +1,12 @@
++-- Desired=Unknown/Install/Remove/Purge/Hold
+|+- Status=Inst/Not-inst/Confs/Unpack/halF-conf/Half-inst/trig-aWait/Trig-pend
+||+ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+│││ Name     Version           Architecture Description
+├┼┼─════════─═════════════════─════════════─══════════════════════════════════════════════════════════
+ii  curl     8.22.0-1          amd64        command line tool for transferring data with URL syntax
+ii  dnsrecon 1.6.3-1           all          Powerful DNS enumeration script
+un  dnsutils <none>            <none>       (no description available)
+ii  nmap     7.991+dfsg-1kali1 amd64        The Network Mapper
+ii  wafw00f  2.4.2-1           all          identify and fingerprint Web Application Firewall products
+ii  whatweb  0.6.4-1           all          Next generation web scanner
+ii  whois    5.6.6             amd64        intelligent WHOIS client
