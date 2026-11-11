@@ -4,18 +4,26 @@ Footprinting, Reconnaissance & Network Scanning Phases
 W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS
 Field	Detail
 
-Pentester Name (Cybersecurity Professional)	Manpreet Singh
-Program / Batch	B084 – Networkwalks
-Date	10 November 2026
-Modules completed	W2-PM1: Multiple Kali Tools
-W2-PM2: GHDB Footprinting
-W2-PM3: Maltego Footprinting
-W2-PM4: theHarvester Footprinting
-W2-PM5: Network Scanning
-Testing environment	Kali Linux and an authorized lab environment
-Phases covered	Phase 1: Reconnaissance & Footprinting
-Phase 2: Information Gathering & Analysis
-Phase 3: Network Scanning & Host Discovery
+Field                                	Detail
+
+Pentester Name (Cybersecurity Professional) =	Manpreet Singh
+
+Program / Batch	B084  =  Networkwalks
+
+Date	             =  10 November 2026
+
+Modules completed	 =  W2-PM1: Multiple Kali Tools
+                      W2-PM2: GHDB Footprinting
+                      W2-PM3: Maltego Footprinting
+                      W2-PM4: theHarvester Footprinting
+                      W2-PM5: Network Scanning
+
+Testing environment =	Kali Linux and an authorized lab environment
+
+Phases covered	    =  Phase 1: Reconnaissance & Footprinting
+                       Phase 2: Information Gathering & Analysis
+                       Phase 3: Network Scanning & Host Discovery
+
 
 
 Report note: This is the main project overview for the five modules currently represented in this GitHub repository. It describes the work at a summary level and does not claim that exploitation or vulnerability validation was performed.
