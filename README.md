@@ -297,14 +297,20 @@ The project is organized into five module folders:
 
 ```text
 W2-PM-FINAL/
+│W2-PM-FINAL/
 │
 ├── README.md
 │
 ├── PM1-Multiple-Kali-Tools/
+│   ├── outputs/
+│   └── screenshots/
 │
 ├── PM2-GHDB-Footprinting/
+│   ├── outputs/
 │
 ├── PM3-Maltego-Footprinting/
+│   ├── outputs/
+│   └── screenshots/
 │
 ├── PM4-theHarvester/
 │   ├── reports/
@@ -317,6 +323,7 @@ W2-PM-FINAL/
     │   └── README.md
     ├── outputs/
     └── screenshots/
+
 ```
 
 **Evidence note:** The structure above describes the intended organization. Only files actually committed to the repository should be represented as published evidence. Local raw output and sensitive screenshots should remain excluded from public uploads.
